@@ -39,3 +39,4 @@ elif option == 2:
 else:
     print("""
     This option isn't among the alternatives. Please choose a correct number.""")
+#And that's it. Simple, isn't?
